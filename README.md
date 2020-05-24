@@ -12,6 +12,6 @@ To run:
   - Run index.html.
   
   Home Page Preview:
-  <img src="./screenshot/home.png>
+  <img src="screenshot/home.png" width=500>
   
  
