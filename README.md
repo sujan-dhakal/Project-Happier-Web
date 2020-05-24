@@ -5,3 +5,9 @@
   - Developer: Sujan Dhakal
   
  
+About Project Happier:
+  - A simple website where you can view the random pictures of dog and cats, or read motivational quotes to make your day.      (More pets like fish, rabbit comming soon.)
+  
+  
+  
+ 
