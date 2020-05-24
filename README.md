@@ -11,7 +11,9 @@ About Project Happier:
 To run:
   - Run index.html.
   
+  
   Home Page Preview:
-  <img src="screenshot/home.png" width=500>
+  
+  <img src="screenshot/home.png">
   
  
